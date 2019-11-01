@@ -1,3 +1,3 @@
 # Web Develops
 
-Всем!!! Бесплатные материалы посвященные веб-программированию!
+My web-develops for your using
